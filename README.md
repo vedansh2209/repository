@@ -20,7 +20,7 @@ The primary goal of this project is to provide you (as a Home Assistant user)
 with additional, high quality, add-ons that allow you to take your automated
 home to the next level.
 
-## Installation
+## Need to install ?
 
 In general, there is no need to install this repository on your
 Home Assistant instance. It is activated and added by Home Assistant
